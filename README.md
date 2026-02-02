@@ -10,7 +10,11 @@ Quando um fungicida é usado repetidamente, os fungos podem desenvolver resistê
 - Decidir quando rotacionar mecanismos de ação
 - Priorizar fungicidas com menor risco de resistência
 
----
+<img width="1402" height="890" alt="image" src="https://github.com/user-attachments/assets/b096eaac-93f6-46a9-a52e-00c5e1cf82cb" />
+<img width="1400" height="687" alt="image" src="https://github.com/user-attachments/assets/a8445277-d635-432f-84e2-d42853b541d5" />
+<img width="1349" height="674" alt="image" src="https://github.com/user-attachments/assets/0112dd63-0a0b-456a-bea6-649d68955a54" />
+<img width="1263" height="769" alt="image" src="https://github.com/user-attachments/assets/d79cee84-c6e5-4aa6-b493-ae0f5b82dde8" />
+<img width="1344" height="868" alt="image" src="https://github.com/user-attachments/assets/8671e4b2-b075-439a-bfe7-715069534833" />
 
 ## Instalação
 
@@ -326,24 +330,12 @@ print(f'IDA: {results.ida_molecular_result.ida_molecular_aggregate:.2f}')
 streamlit run app.py
 ```
 
----
-
-## Limitações
-
-- Baseado em estruturas computacionais ou experimentais (qualidade variável)
-- Não considera fatores ambientais ou práticas agrícolas específicas
-- Dados regionais podem estar incompletos para algumas regiões
-
-**Recomendamos:** Use o IDA junto com monitoramento de campo e orientação técnica.
-
----
-
 ## Suporte
 
 Este é um projeto de pesquisa em desenvolvimento.
+brunoescalhao@gmail.com
 
-**Versão:** 2.0
-**Contato:** [Seu email/instituição]
+# [Licensa](https://github.com/bruno-portfolio/IDA-Indice-de-Durabilidade-Agroquimica/blob/main/LICENSE)
 
 ---
 
