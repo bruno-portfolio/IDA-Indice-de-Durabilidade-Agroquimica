@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "layer": "IDA_MOLECULAR",
+    "description": "Barreira evolutiva intrínseca do alvo",
+    "target": "Succinate dehydrogenase",
+    "organism": "Phakopsora pachyrhizi",
+    "defensivo_class": "Carboxamidas (SDHI)",
+    "date_generated": "2026-02-02T11:29:39.140144",
+    "version": "2.0"
+  },
+  "aggregate_score": {
+    "ida_molecular": 0.4201,
+    "interpretation": {
+      "barrier_level": "moderate_barrier",
+      "risk_level": "moderate",
+      "interpretation": "Barreira moderada - algumas vias de escape possíveis",
+      "recommendation": "Atenção ao manejo de resistência desde o início"
+    }
+  },
+  "component_summary": {
+    "avg_srs": 0.4725,
+    "avg_sce": 0.5429,
+    "avg_robustness": 0.5,
+    "avg_fitness_cost": 0.6643
+  },
+  "confidence": {
+    "avg_plddt": 88.6,
+    "min_plddt": 82.7,
+    "n_residues": 7,
+    "confidence_level": "high"
+  },
+  "weights": {
+    "srs": 0.3,
+    "sce": 0.35,
+    "robustness": 0.35
+  },
+  "residue_details": [
+    {
+      "res_seq": 145,
+      "res_name": "TYR",
+      "chain_id": "B",
+      "srs": 0.7692,
+      "sce": 0.88,
+      "robustness": 0.8333,
+      "fitness_cost_proxy": 0.78,
+      "ida_molecular": 0.6981,
+      "plddt": 92.5,
+      "functional_role": "direct_contact",
+      "frac_documented": false
+    },
+    {
+      "res_seq": 146,
+      "res_name": "GLY",
+      "chain_id": "B",
+      "srs": 0.2692,
+      "sce": 0.72,
+      "robustness": 0.5,
+      "fitness_cost_proxy": 0.65,
+      "ida_molecular": 0.409,
+      "plddt": 88.3,
+      "functional_role": "structural",
+      "frac_documented": false
+    },
+    {
+      "res_seq": 147,
+      "res_name": "ALA",
+      "chain_id": "B",
+      "srs": 0.1154,
+      "sce": 0.2,
+      "robustness": 0.1667,
+      "fitness_cost_proxy": 0.48,
+      "ida_molecular": 0.1238,
+      "plddt": 85.1,
+      "functional_role": "peripheral",
+      "frac_documented": false
+    },
+    {
+      "res_seq": 230,
+      "res_name": "HIS",
+      "chain_id": "B",
+      "srs": 1.0,
+      "sce": 1.0,
+      "robustness": 1.0,
+      "fitness_cost_proxy": 0.85,
+      "ida_molecular": 0.8595,
+      "plddt": 94.2,
+      "functional_role": "catalytic",
+      "frac_documented": false
+    },
+    {
+      "res_seq": 231,
+      "res_name": "SER",
+      "chain_id": "B",
+      "srs": 0.0,
+      "sce": 0.0,
+      "robustness": 0.0,
+      "fitness_cost_proxy": 0.55,
+      "ida_molecular": 0.0,
+      "plddt": 82.7,
+      "functional_role": "peripheral",
+      "frac_documented": false
+    },
+    {
+      "res_seq": 272,
+      "res_name": "PRO",
+      "chain_id": "B",
+      "srs": 0.5,
+      "sce": 0.6,
+      "robustness": 0.6667,
+      "fitness_cost_proxy": 0.72,
+      "ida_molecular": 0.4891,
+      "plddt": 90.1,
+      "functional_role": "direct_contact",
+      "frac_documented": true
+    },
+    {
+      "res_seq": 273,
+      "res_name": "ILE",
+      "chain_id": "B",
+      "srs": 0.6538,
+      "sce": 0.4,
+      "robustness": 0.3333,
+      "fitness_cost_proxy": 0.62,
+      "ida_molecular": 0.3611,
+      "plddt": 87.5,
+      "functional_role": "structural",
+      "frac_documented": false
+    }
+  ],
+  "disclaimer": "IDA Molecular mede a barreira INTRÍNSECA ao escape por mutação. A durabilidade de campo depende também de fatores regionais (IDA Regional) e de manejo (IDA Programa). Este score NÃO é uma previsão de vida útil."
+}

@@ -1,0 +1,8 @@
+res_seq,res_name,chain_id,srs,sce,robustness,fitness_cost_proxy,sce_weight,plddt,functional_role,ida_base,ida_molecular,frac_documented
+145,TYR,B,0.7692,0.8800,0.8333,0.7800,0.9000,92.5,direct_contact,0.8304,0.6981,False
+146,GLY,B,0.2692,0.7200,0.5000,0.6500,0.9000,88.3,structural,0.5078,0.4090,False
+147,ALA,B,0.1154,0.2000,0.1667,0.4800,0.9000,85.1,peripheral,0.1629,0.1238,False
+230,HIS,B,1.0000,1.0000,1.0000,0.8500,0.9000,94.2,catalytic,1.0000,0.8595,False
+231,SER,B,0.0000,0.0000,0.0000,0.5500,0.9000,82.7,peripheral,0.0000,0.0000,False
+272,PRO,B,0.5000,0.6000,0.6667,0.7200,0.9000,90.1,direct_contact,0.5933,0.4891,True
+273,ILE,B,0.6538,0.4000,0.3333,0.6200,0.9000,87.5,structural,0.4528,0.3611,False

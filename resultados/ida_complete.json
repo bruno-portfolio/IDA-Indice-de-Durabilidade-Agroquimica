@@ -1,0 +1,57 @@
+{
+  "ida_molecular": 0.40303916101538073,
+  "ida_regional": null,
+  "ida_programa": null,
+  "confidence": {
+    "overall": {
+      "score": 0.58,
+      "level": "baixa"
+    },
+    "breakdown": {
+      "structural": {
+        "score": 1.0,
+        "issues": [],
+        "metrics": {
+          "mean_plddt": 90.99562753036436,
+          "min_plddt": 92.57,
+          "n_low_confidence_residues": 0
+        }
+      },
+      "evolutionary": {
+        "score": 0.3,
+        "issues": [
+          "Apenas 0 sequências no MSA (recomendado: 50+)",
+          "Qualidade do alinhamento baixa (0.50)"
+        ],
+        "metrics": {
+          "n_sequences": 0,
+          "alignment_quality": 0.5,
+          "avg_gap_fraction": 0.0
+        }
+      },
+      "regional": {
+        "score": 0.3,
+        "issues": [
+          "Apenas 0 anos de monitoramento documentado",
+          "Poucas fontes de dados regionais",
+          "Nenhuma mutação documentada - dados podem ser incompletos"
+        ],
+        "metrics": {
+          "n_mutations_documented": 0,
+          "years_of_monitoring": 0,
+          "n_data_sources": 0
+        }
+      }
+    },
+    "recommendations": [
+      "Expandir busca de homólogos para melhorar MSA",
+      "Dados regionais limitados - IDA Regional pode não refletir situação real",
+      "Monitoramento recente - validar com dados de mais safras"
+    ],
+    "interpretation": "Confiança BAIXA: resultados devem ser interpretados com cautela - principais fontes de incerteza: dados evolutivos, dados regionais",
+    "metadata": {
+      "date_generated": "2026-02-02T13:35:26.062054",
+      "version": "2.0"
+    }
+  }
+}

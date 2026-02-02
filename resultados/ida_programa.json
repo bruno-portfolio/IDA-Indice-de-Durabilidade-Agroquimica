@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "layer": "IDA_PROGRAMA",
+    "description": "IDA completo incluindo estratégia de manejo",
+    "date_generated": "2026-02-02T11:42:16.630864",
+    "version": "2.0"
+  },
+  "comparison": {
+    "ranking": [
+      {
+        "rank": 1,
+        "program": "Rotacao SDHI + Triazol + Multissitio",
+        "ida_programa": 0.0744,
+        "program_bonus": 0.12,
+        "effect": "protetor",
+        "key_recommendations": [
+          "Programa bem estruturado - manter monitoramento de eficácia"
+        ]
+      }
+    ],
+    "best_program": "Rotacao SDHI + Triazol + Multissitio",
+    "worst_program": "Rotacao SDHI + Triazol + Multissitio",
+    "ida_range": {
+      "max": 0.0744,
+      "min": 0.0744,
+      "spread": 0.0
+    },
+    "n_programs": 1
+  },
+  "programs": [
+    {
+      "metadata": {
+        "layer": "IDA_PROGRAMA",
+        "description": "IDA completo incluindo estratégia de manejo",
+        "program_id": "REAL_001",
+        "program_name": "Rotacao SDHI + Triazol + Multissitio",
+        "region_id": "",
+        "region_name": "",
+        "season": "",
+        "date_generated": "2026-02-02T11:42:16.628896",
+        "version": "2.0"
+      },
+      "scores": {
+        "ida_molecular": 0.0806,
+        "ida_regional": 0.0664,
+        "ida_programa": 0.0744
+      },
+      "program_analysis": {
+        "mixture_protection": 0.9,
+        "rotation_score": 0.7,
+        "program_bonus": 0.12,
+        "effect": "protetor"
+      },
+      "interpretation": "Risco alto - programa protege significativamente, revisar estratégia",
+      "recommendations": [
+        "Programa bem estruturado - manter monitoramento de eficácia"
+      ],
+      "disclaimer": "IDA Programa representa a avaliação COMPLETA de risco de erosão de eficácia, integrando: (1) barreira molecular intrínseca, (2) contexto regional de seleção, e (3) estratégia de manejo. Este NÃO é uma previsão de vida útil, mas uma estimativa comparativa de risco que pode orientar decisões de manejo de resistência."
+    }
+  ],
+  "disclaimer": "IDA Programa representa a avaliação COMPLETA de risco de erosão de eficácia, integrando: (1) barreira molecular intrínseca, (2) contexto regional de seleção, e (3) estratégia de manejo. Este NÃO é uma previsão de vida útil, mas uma estimativa comparativa de risco que pode orientar decisões de manejo de resistência."
+}

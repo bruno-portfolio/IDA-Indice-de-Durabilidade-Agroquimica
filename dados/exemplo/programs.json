@@ -1,0 +1,141 @@
+{
+  "programs": [
+    {
+      "program_id": "PROG_001",
+      "name": "Rotacao Balanceada - Alta Protecao",
+      "description": "Programa com rotacao de MoAs e uso de multissitios",
+      "target_crop": "Soja",
+      "target_disease": "Ferrugem Asiatica",
+      "season": "2024/25",
+      "applications": [
+        {
+          "timing": "V8",
+          "moa": "multisite",
+          "active1": "Mancozeb",
+          "active2": null,
+          "rate_ha": "2.5 kg"
+        },
+        {
+          "timing": "R1",
+          "moa": "SDHI",
+          "active1": "Fluxapiroxade",
+          "active2": "Piraclostrobina",
+          "rate_ha": "300 mL"
+        },
+        {
+          "timing": "R3",
+          "moa": "DMI",
+          "active1": "Protioconazol",
+          "active2": "Trifloxistrobina",
+          "rate_ha": "400 mL"
+        },
+        {
+          "timing": "R5.1",
+          "moa": "multisite",
+          "active1": "Clorotalonil",
+          "active2": null,
+          "rate_ha": "1.5 L"
+        }
+      ],
+      "notes": "Programa protetor com rotacao de grupos quimicos"
+    },
+    {
+      "program_id": "PROG_002",
+      "name": "SDHI Intensivo - Alto Risco",
+      "description": "Programa com uso repetido de SDHI - demonstracao de risco",
+      "target_crop": "Soja",
+      "target_disease": "Ferrugem Asiatica",
+      "season": "2024/25",
+      "applications": [
+        {
+          "timing": "V8",
+          "moa": "SDHI",
+          "active1": "Fluxapiroxade",
+          "active2": "Piraclostrobina",
+          "rate_ha": "300 mL"
+        },
+        {
+          "timing": "R1",
+          "moa": "SDHI",
+          "active1": "Benzovindiflupir",
+          "active2": "Azoxistrobina",
+          "rate_ha": "200 mL"
+        },
+        {
+          "timing": "R3",
+          "moa": "SDHI",
+          "active1": "Bixafen",
+          "active2": "Protioconazol",
+          "rate_ha": "500 mL"
+        },
+        {
+          "timing": "R5.1",
+          "moa": "DMI",
+          "active1": "Tebuconazol",
+          "active2": null,
+          "rate_ha": "500 mL"
+        }
+      ],
+      "notes": "ALERTA: Uso excessivo de SDHI - alto risco de selecao"
+    },
+    {
+      "program_id": "PROG_003",
+      "name": "Economico - Risco Moderado",
+      "description": "Programa de menor custo com protecao basica",
+      "target_crop": "Soja",
+      "target_disease": "Ferrugem Asiatica",
+      "season": "2024/25",
+      "applications": [
+        {
+          "timing": "R1",
+          "moa": "DMI",
+          "active1": "Tebuconazol",
+          "active2": "Azoxistrobina",
+          "rate_ha": "500 mL"
+        },
+        {
+          "timing": "R3",
+          "moa": "SDHI",
+          "active1": "Fluxapiroxade",
+          "active2": "Piraclostrobina",
+          "rate_ha": "300 mL"
+        },
+        {
+          "timing": "R5.1",
+          "moa": "DMI",
+          "active1": "Protioconazol",
+          "active2": null,
+          "rate_ha": "400 mL"
+        }
+      ],
+      "notes": "Programa basico - monitorar resistencia"
+    }
+  ],
+  "moa_groups": {
+    "SDHI": {
+      "frac_code": "7",
+      "target": "SDH",
+      "risk": "medium-high"
+    },
+    "DMI": {
+      "frac_code": "3",
+      "target": "CYP51",
+      "risk": "medium"
+    },
+    "QoI": {
+      "frac_code": "11",
+      "target": "Cyt b",
+      "risk": "high"
+    },
+    "multisite": {
+      "frac_code": "M",
+      "target": "multiple",
+      "risk": "low"
+    }
+  },
+  "metadata": {
+    "version": "1.0",
+    "source": "IDA Demo Data",
+    "disclaimer": "Dados sinteticos para demonstracao"
+  }
+}

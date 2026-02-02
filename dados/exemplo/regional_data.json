@@ -1,0 +1,72 @@
+{
+  "regions": [
+    {
+      "region_id": "BR-MT",
+      "region_name": "Mato Grosso",
+      "country": "Brazil",
+      "soy_area_ha": 12000000,
+      "soy_production_ton": 45000000,
+      "disease_pressure": "high",
+      "sdhi_years_use": 10,
+      "sdhi_applications_per_season": 2.5,
+      "resistance_status": {
+        "P272L": "confirmed",
+        "I273V": "confirmed",
+        "H230R": "not_detected"
+      },
+      "monitoring_quality": "good",
+      "data_sources": [
+        "FRAC",
+        "Embrapa",
+        "Fundacao MT"
+      ]
+    },
+    {
+      "region_id": "BR-PR",
+      "region_name": "Parana",
+      "country": "Brazil",
+      "soy_area_ha": 5500000,
+      "soy_production_ton": 21000000,
+      "disease_pressure": "medium-high",
+      "sdhi_years_use": 9,
+      "sdhi_applications_per_season": 2.0,
+      "resistance_status": {
+        "P272L": "confirmed",
+        "I273V": "suspected",
+        "H230R": "not_detected"
+      },
+      "monitoring_quality": "good",
+      "data_sources": [
+        "FRAC",
+        "Embrapa",
+        "IAPAR"
+      ]
+    },
+    {
+      "region_id": "BR-GO",
+      "region_name": "Goias",
+      "country": "Brazil",
+      "soy_area_ha": 4000000,
+      "soy_production_ton": 14000000,
+      "disease_pressure": "high",
+      "sdhi_years_use": 10,
+      "sdhi_applications_per_season": 2.8,
+      "resistance_status": {
+        "P272L": "confirmed",
+        "I273V": "confirmed",
+        "H230R": "not_detected"
+      },
+      "monitoring_quality": "moderate",
+      "data_sources": [
+        "FRAC",
+        "Embrapa"
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2024-12",
+    "source": "IDA Demo Data",
+    "disclaimer": "Dados sinteticos para demonstracao"
+  }
+}

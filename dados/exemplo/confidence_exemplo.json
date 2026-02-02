@@ -1,0 +1,1124 @@
+{
+  "residueConfidence": [
+    {
+      "residueNumber": 1,
+      "pLDDT": 51.05
+    },
+    {
+      "residueNumber": 2,
+      "pLDDT": 51.74
+    },
+    {
+      "residueNumber": 3,
+      "pLDDT": 58.14
+    },
+    {
+      "residueNumber": 4,
+      "pLDDT": 52.15
+    },
+    {
+      "residueNumber": 5,
+      "pLDDT": 68.02
+    },
+    {
+      "residueNumber": 6,
+      "pLDDT": 50.76
+    },
+    {
+      "residueNumber": 7,
+      "pLDDT": 60.72
+    },
+    {
+      "residueNumber": 8,
+      "pLDDT": 56.64
+    },
+    {
+      "residueNumber": 9,
+      "pLDDT": 67.04
+    },
+    {
+      "residueNumber": 10,
+      "pLDDT": 73.51
+    },
+    {
+      "residueNumber": 11,
+      "pLDDT": 77.42
+    },
+    {
+      "residueNumber": 12,
+      "pLDDT": 77.34
+    },
+    {
+      "residueNumber": 13,
+      "pLDDT": 75.39
+    },
+    {
+      "residueNumber": 14,
+      "pLDDT": 70.04
+    },
+    {
+      "residueNumber": 15,
+      "pLDDT": 79.6
+    },
+    {
+      "residueNumber": 16,
+      "pLDDT": 71.93
+    },
+    {
+      "residueNumber": 17,
+      "pLDDT": 83.15
+    },
+    {
+      "residueNumber": 18,
+      "pLDDT": 71.54
+    },
+    {
+      "residueNumber": 19,
+      "pLDDT": 76.94
+    },
+    {
+      "residueNumber": 20,
+      "pLDDT": 79.86
+    },
+    {
+      "residueNumber": 21,
+      "pLDDT": 89.92
+    },
+    {
+      "residueNumber": 22,
+      "pLDDT": 72.04
+    },
+    {
+      "residueNumber": 23,
+      "pLDDT": 73.13
+    },
+    {
+      "residueNumber": 24,
+      "pLDDT": 87.38
+    },
+    {
+      "residueNumber": 25,
+      "pLDDT": 70.47
+    },
+    {
+      "residueNumber": 26,
+      "pLDDT": 90.05
+    },
+    {
+      "residueNumber": 27,
+      "pLDDT": 82.61
+    },
+    {
+      "residueNumber": 28,
+      "pLDDT": 75.84
+    },
+    {
+      "residueNumber": 29,
+      "pLDDT": 88.43
+    },
+    {
+      "residueNumber": 30,
+      "pLDDT": 86.91
+    },
+    {
+      "residueNumber": 31,
+      "pLDDT": 77.56
+    },
+    {
+      "residueNumber": 32,
+      "pLDDT": 87.63
+    },
+    {
+      "residueNumber": 33,
+      "pLDDT": 74.55
+    },
+    {
+      "residueNumber": 34,
+      "pLDDT": 83.4
+    },
+    {
+      "residueNumber": 35,
+      "pLDDT": 81.6
+    },
+    {
+      "residueNumber": 36,
+      "pLDDT": 87.81
+    },
+    {
+      "residueNumber": 37,
+      "pLDDT": 76.94
+    },
+    {
+      "residueNumber": 38,
+      "pLDDT": 78.76
+    },
+    {
+      "residueNumber": 39,
+      "pLDDT": 86.92
+    },
+    {
+      "residueNumber": 40,
+      "pLDDT": 81.28
+    },
+    {
+      "residueNumber": 41,
+      "pLDDT": 85.07
+    },
+    {
+      "residueNumber": 42,
+      "pLDDT": 84.04
+    },
+    {
+      "residueNumber": 43,
+      "pLDDT": 84.67
+    },
+    {
+      "residueNumber": 44,
+      "pLDDT": 89.58
+    },
+    {
+      "residueNumber": 45,
+      "pLDDT": 80.7
+    },
+    {
+      "residueNumber": 46,
+      "pLDDT": 84.71
+    },
+    {
+      "residueNumber": 47,
+      "pLDDT": 78.24
+    },
+    {
+      "residueNumber": 48,
+      "pLDDT": 70.7
+    },
+    {
+      "residueNumber": 49,
+      "pLDDT": 86.59
+    },
+    {
+      "residueNumber": 50,
+      "pLDDT": 73.99
+    },
+    {
+      "residueNumber": 51,
+      "pLDDT": 88.04
+    },
+    {
+      "residueNumber": 52,
+      "pLDDT": 90.1
+    },
+    {
+      "residueNumber": 53,
+      "pLDDT": 84.48
+    },
+    {
+      "residueNumber": 54,
+      "pLDDT": 73.74
+    },
+    {
+      "residueNumber": 55,
+      "pLDDT": 77.41
+    },
+    {
+      "residueNumber": 56,
+      "pLDDT": 78.61
+    },
+    {
+      "residueNumber": 57,
+      "pLDDT": 71.61
+    },
+    {
+      "residueNumber": 58,
+      "pLDDT": 80.05
+    },
+    {
+      "residueNumber": 59,
+      "pLDDT": 82.61
+    },
+    {
+      "residueNumber": 60,
+      "pLDDT": 77.39
+    },
+    {
+      "residueNumber": 61,
+      "pLDDT": 74.16
+    },
+    {
+      "residueNumber": 62,
+      "pLDDT": 71.94
+    },
+    {
+      "residueNumber": 63,
+      "pLDDT": 83.82
+    },
+    {
+      "residueNumber": 64,
+      "pLDDT": 70.28
+    },
+    {
+      "residueNumber": 65,
+      "pLDDT": 77.74
+    },
+    {
+      "residueNumber": 66,
+      "pLDDT": 75.04
+    },
+    {
+      "residueNumber": 67,
+      "pLDDT": 81.7
+    },
+    {
+      "residueNumber": 68,
+      "pLDDT": 85.92
+    },
+    {
+      "residueNumber": 69,
+      "pLDDT": 90.0
+    },
+    {
+      "residueNumber": 70,
+      "pLDDT": 84.05
+    },
+    {
+      "residueNumber": 71,
+      "pLDDT": 91.82
+    },
+    {
+      "residueNumber": 72,
+      "pLDDT": 91.21
+    },
+    {
+      "residueNumber": 73,
+      "pLDDT": 83.86
+    },
+    {
+      "residueNumber": 74,
+      "pLDDT": 75.13
+    },
+    {
+      "residueNumber": 75,
+      "pLDDT": 80.64
+    },
+    {
+      "residueNumber": 76,
+      "pLDDT": 73.91
+    },
+    {
+      "residueNumber": 77,
+      "pLDDT": 91.82
+    },
+    {
+      "residueNumber": 78,
+      "pLDDT": 79.78
+    },
+    {
+      "residueNumber": 79,
+      "pLDDT": 86.54
+    },
+    {
+      "residueNumber": 80,
+      "pLDDT": 70.97
+    },
+    {
+      "residueNumber": 81,
+      "pLDDT": 72.96
+    },
+    {
+      "residueNumber": 82,
+      "pLDDT": 74.25
+    },
+    {
+      "residueNumber": 83,
+      "pLDDT": 75.64
+    },
+    {
+      "residueNumber": 84,
+      "pLDDT": 77.75
+    },
+    {
+      "residueNumber": 85,
+      "pLDDT": 75.98
+    },
+    {
+      "residueNumber": 86,
+      "pLDDT": 79.55
+    },
+    {
+      "residueNumber": 87,
+      "pLDDT": 79.25
+    },
+    {
+      "residueNumber": 88,
+      "pLDDT": 72.39
+    },
+    {
+      "residueNumber": 89,
+      "pLDDT": 71.38
+    },
+    {
+      "residueNumber": 90,
+      "pLDDT": 77.81
+    },
+    {
+      "residueNumber": 91,
+      "pLDDT": 71.95
+    },
+    {
+      "residueNumber": 92,
+      "pLDDT": 79.53
+    },
+    {
+      "residueNumber": 93,
+      "pLDDT": 70.19
+    },
+    {
+      "residueNumber": 94,
+      "pLDDT": 81.79
+    },
+    {
+      "residueNumber": 95,
+      "pLDDT": 71.62
+    },
+    {
+      "residueNumber": 96,
+      "pLDDT": 85.27
+    },
+    {
+      "residueNumber": 97,
+      "pLDDT": 78.89
+    },
+    {
+      "residueNumber": 98,
+      "pLDDT": 91.68
+    },
+    {
+      "residueNumber": 99,
+      "pLDDT": 75.78
+    },
+    {
+      "residueNumber": 100,
+      "pLDDT": 80.4
+    },
+    {
+      "residueNumber": 101,
+      "pLDDT": 86.52
+    },
+    {
+      "residueNumber": 102,
+      "pLDDT": 77.37
+    },
+    {
+      "residueNumber": 103,
+      "pLDDT": 77.66
+    },
+    {
+      "residueNumber": 104,
+      "pLDDT": 84.06
+    },
+    {
+      "residueNumber": 105,
+      "pLDDT": 91.33
+    },
+    {
+      "residueNumber": 106,
+      "pLDDT": 89.45
+    },
+    {
+      "residueNumber": 107,
+      "pLDDT": 79.22
+    },
+    {
+      "residueNumber": 108,
+      "pLDDT": 85.79
+    },
+    {
+      "residueNumber": 109,
+      "pLDDT": 84.94
+    },
+    {
+      "residueNumber": 110,
+      "pLDDT": 78.19
+    },
+    {
+      "residueNumber": 111,
+      "pLDDT": 75.17
+    },
+    {
+      "residueNumber": 112,
+      "pLDDT": 71.72
+    },
+    {
+      "residueNumber": 113,
+      "pLDDT": 89.34
+    },
+    {
+      "residueNumber": 114,
+      "pLDDT": 71.26
+    },
+    {
+      "residueNumber": 115,
+      "pLDDT": 81.41
+    },
+    {
+      "residueNumber": 116,
+      "pLDDT": 81.83
+    },
+    {
+      "residueNumber": 117,
+      "pLDDT": 73.22
+    },
+    {
+      "residueNumber": 118,
+      "pLDDT": 84.43
+    },
+    {
+      "residueNumber": 119,
+      "pLDDT": 90.15
+    },
+    {
+      "residueNumber": 120,
+      "pLDDT": 87.07
+    },
+    {
+      "residueNumber": 121,
+      "pLDDT": 78.56
+    },
+    {
+      "residueNumber": 122,
+      "pLDDT": 72.78
+    },
+    {
+      "residueNumber": 123,
+      "pLDDT": 91.45
+    },
+    {
+      "residueNumber": 124,
+      "pLDDT": 81.38
+    },
+    {
+      "residueNumber": 125,
+      "pLDDT": 83.85
+    },
+    {
+      "residueNumber": 126,
+      "pLDDT": 87.65
+    },
+    {
+      "residueNumber": 127,
+      "pLDDT": 78.5
+    },
+    {
+      "residueNumber": 128,
+      "pLDDT": 71.37
+    },
+    {
+      "residueNumber": 129,
+      "pLDDT": 72.99
+    },
+    {
+      "residueNumber": 130,
+      "pLDDT": 84.71
+    },
+    {
+      "residueNumber": 131,
+      "pLDDT": 77.69
+    },
+    {
+      "residueNumber": 132,
+      "pLDDT": 89.16
+    },
+    {
+      "residueNumber": 133,
+      "pLDDT": 86.28
+    },
+    {
+      "residueNumber": 134,
+      "pLDDT": 91.57
+    },
+    {
+      "residueNumber": 135,
+      "pLDDT": 84.71
+    },
+    {
+      "residueNumber": 136,
+      "pLDDT": 76.68
+    },
+    {
+      "residueNumber": 137,
+      "pLDDT": 87.4
+    },
+    {
+      "residueNumber": 138,
+      "pLDDT": 70.62
+    },
+    {
+      "residueNumber": 139,
+      "pLDDT": 81.47
+    },
+    {
+      "residueNumber": 140,
+      "pLDDT": 89.17
+    },
+    {
+      "residueNumber": 141,
+      "pLDDT": 81.32
+    },
+    {
+      "residueNumber": 142,
+      "pLDDT": 73.02
+    },
+    {
+      "residueNumber": 143,
+      "pLDDT": 81.0
+    },
+    {
+      "residueNumber": 144,
+      "pLDDT": 82.0
+    },
+    {
+      "residueNumber": 145,
+      "pLDDT": 88.69
+    },
+    {
+      "residueNumber": 146,
+      "pLDDT": 93.93
+    },
+    {
+      "residueNumber": 147,
+      "pLDDT": 88.4
+    },
+    {
+      "residueNumber": 148,
+      "pLDDT": 75.98
+    },
+    {
+      "residueNumber": 149,
+      "pLDDT": 81.14
+    },
+    {
+      "residueNumber": 150,
+      "pLDDT": 74.47
+    },
+    {
+      "residueNumber": 151,
+      "pLDDT": 77.09
+    },
+    {
+      "residueNumber": 152,
+      "pLDDT": 78.76
+    },
+    {
+      "residueNumber": 153,
+      "pLDDT": 90.64
+    },
+    {
+      "residueNumber": 154,
+      "pLDDT": 71.77
+    },
+    {
+      "residueNumber": 155,
+      "pLDDT": 74.34
+    },
+    {
+      "residueNumber": 156,
+      "pLDDT": 74.39
+    },
+    {
+      "residueNumber": 157,
+      "pLDDT": 91.9
+    },
+    {
+      "residueNumber": 158,
+      "pLDDT": 89.6
+    },
+    {
+      "residueNumber": 159,
+      "pLDDT": 74.27
+    },
+    {
+      "residueNumber": 160,
+      "pLDDT": 82.42
+    },
+    {
+      "residueNumber": 161,
+      "pLDDT": 71.87
+    },
+    {
+      "residueNumber": 162,
+      "pLDDT": 76.97
+    },
+    {
+      "residueNumber": 163,
+      "pLDDT": 77.51
+    },
+    {
+      "residueNumber": 164,
+      "pLDDT": 81.83
+    },
+    {
+      "residueNumber": 165,
+      "pLDDT": 90.45
+    },
+    {
+      "residueNumber": 166,
+      "pLDDT": 87.8
+    },
+    {
+      "residueNumber": 167,
+      "pLDDT": 81.75
+    },
+    {
+      "residueNumber": 168,
+      "pLDDT": 87.29
+    },
+    {
+      "residueNumber": 169,
+      "pLDDT": 80.65
+    },
+    {
+      "residueNumber": 170,
+      "pLDDT": 86.07
+    },
+    {
+      "residueNumber": 171,
+      "pLDDT": 87.09
+    },
+    {
+      "residueNumber": 172,
+      "pLDDT": 75.65
+    },
+    {
+      "residueNumber": 173,
+      "pLDDT": 88.32
+    },
+    {
+      "residueNumber": 174,
+      "pLDDT": 82.71
+    },
+    {
+      "residueNumber": 175,
+      "pLDDT": 80.69
+    },
+    {
+      "residueNumber": 176,
+      "pLDDT": 78.71
+    },
+    {
+      "residueNumber": 177,
+      "pLDDT": 74.93
+    },
+    {
+      "residueNumber": 178,
+      "pLDDT": 81.03
+    },
+    {
+      "residueNumber": 179,
+      "pLDDT": 72.77
+    },
+    {
+      "residueNumber": 180,
+      "pLDDT": 83.97
+    },
+    {
+      "residueNumber": 181,
+      "pLDDT": 89.76
+    },
+    {
+      "residueNumber": 182,
+      "pLDDT": 87.39
+    },
+    {
+      "residueNumber": 183,
+      "pLDDT": 83.4
+    },
+    {
+      "residueNumber": 184,
+      "pLDDT": 80.88
+    },
+    {
+      "residueNumber": 185,
+      "pLDDT": 85.31
+    },
+    {
+      "residueNumber": 186,
+      "pLDDT": 72.69
+    },
+    {
+      "residueNumber": 187,
+      "pLDDT": 71.15
+    },
+    {
+      "residueNumber": 188,
+      "pLDDT": 88.96
+    },
+    {
+      "residueNumber": 189,
+      "pLDDT": 77.96
+    },
+    {
+      "residueNumber": 190,
+      "pLDDT": 84.72
+    },
+    {
+      "residueNumber": 191,
+      "pLDDT": 79.26
+    },
+    {
+      "residueNumber": 192,
+      "pLDDT": 77.89
+    },
+    {
+      "residueNumber": 193,
+      "pLDDT": 86.95
+    },
+    {
+      "residueNumber": 194,
+      "pLDDT": 77.55
+    },
+    {
+      "residueNumber": 195,
+      "pLDDT": 86.58
+    },
+    {
+      "residueNumber": 196,
+      "pLDDT": 88.05
+    },
+    {
+      "residueNumber": 197,
+      "pLDDT": 73.97
+    },
+    {
+      "residueNumber": 198,
+      "pLDDT": 91.5
+    },
+    {
+      "residueNumber": 199,
+      "pLDDT": 71.37
+    },
+    {
+      "residueNumber": 200,
+      "pLDDT": 79.12
+    },
+    {
+      "residueNumber": 201,
+      "pLDDT": 81.01
+    },
+    {
+      "residueNumber": 202,
+      "pLDDT": 88.25
+    },
+    {
+      "residueNumber": 203,
+      "pLDDT": 73.85
+    },
+    {
+      "residueNumber": 204,
+      "pLDDT": 82.3
+    },
+    {
+      "residueNumber": 205,
+      "pLDDT": 78.11
+    },
+    {
+      "residueNumber": 206,
+      "pLDDT": 90.28
+    },
+    {
+      "residueNumber": 207,
+      "pLDDT": 72.69
+    },
+    {
+      "residueNumber": 208,
+      "pLDDT": 75.84
+    },
+    {
+      "residueNumber": 209,
+      "pLDDT": 88.04
+    },
+    {
+      "residueNumber": 210,
+      "pLDDT": 77.09
+    },
+    {
+      "residueNumber": 211,
+      "pLDDT": 90.77
+    },
+    {
+      "residueNumber": 212,
+      "pLDDT": 71.14
+    },
+    {
+      "residueNumber": 213,
+      "pLDDT": 78.55
+    },
+    {
+      "residueNumber": 214,
+      "pLDDT": 72.36
+    },
+    {
+      "residueNumber": 215,
+      "pLDDT": 82.62
+    },
+    {
+      "residueNumber": 216,
+      "pLDDT": 91.19
+    },
+    {
+      "residueNumber": 217,
+      "pLDDT": 77.14
+    },
+    {
+      "residueNumber": 218,
+      "pLDDT": 84.23
+    },
+    {
+      "residueNumber": 219,
+      "pLDDT": 75.85
+    },
+    {
+      "residueNumber": 220,
+      "pLDDT": 79.66
+    },
+    {
+      "residueNumber": 221,
+      "pLDDT": 82.57
+    },
+    {
+      "residueNumber": 222,
+      "pLDDT": 75.47
+    },
+    {
+      "residueNumber": 223,
+      "pLDDT": 85.19
+    },
+    {
+      "residueNumber": 224,
+      "pLDDT": 81.02
+    },
+    {
+      "residueNumber": 225,
+      "pLDDT": 89.92
+    },
+    {
+      "residueNumber": 226,
+      "pLDDT": 76.05
+    },
+    {
+      "residueNumber": 227,
+      "pLDDT": 91.01
+    },
+    {
+      "residueNumber": 228,
+      "pLDDT": 74.01
+    },
+    {
+      "residueNumber": 229,
+      "pLDDT": 70.44
+    },
+    {
+      "residueNumber": 230,
+      "pLDDT": 91.6
+    },
+    {
+      "residueNumber": 231,
+      "pLDDT": 92.34
+    },
+    {
+      "residueNumber": 232,
+      "pLDDT": 80.5
+    },
+    {
+      "residueNumber": 233,
+      "pLDDT": 70.94
+    },
+    {
+      "residueNumber": 234,
+      "pLDDT": 91.96
+    },
+    {
+      "residueNumber": 235,
+      "pLDDT": 73.11
+    },
+    {
+      "residueNumber": 236,
+      "pLDDT": 89.15
+    },
+    {
+      "residueNumber": 237,
+      "pLDDT": 89.61
+    },
+    {
+      "residueNumber": 238,
+      "pLDDT": 74.86
+    },
+    {
+      "residueNumber": 239,
+      "pLDDT": 89.01
+    },
+    {
+      "residueNumber": 240,
+      "pLDDT": 80.19
+    },
+    {
+      "residueNumber": 241,
+      "pLDDT": 89.79
+    },
+    {
+      "residueNumber": 242,
+      "pLDDT": 89.53
+    },
+    {
+      "residueNumber": 243,
+      "pLDDT": 87.03
+    },
+    {
+      "residueNumber": 244,
+      "pLDDT": 76.35
+    },
+    {
+      "residueNumber": 245,
+      "pLDDT": 82.76
+    },
+    {
+      "residueNumber": 246,
+      "pLDDT": 91.59
+    },
+    {
+      "residueNumber": 247,
+      "pLDDT": 77.05
+    },
+    {
+      "residueNumber": 248,
+      "pLDDT": 78.5
+    },
+    {
+      "residueNumber": 249,
+      "pLDDT": 85.14
+    },
+    {
+      "residueNumber": 250,
+      "pLDDT": 71.38
+    },
+    {
+      "residueNumber": 251,
+      "pLDDT": 75.57
+    },
+    {
+      "residueNumber": 252,
+      "pLDDT": 73.7
+    },
+    {
+      "residueNumber": 253,
+      "pLDDT": 79.15
+    },
+    {
+      "residueNumber": 254,
+      "pLDDT": 79.35
+    },
+    {
+      "residueNumber": 255,
+      "pLDDT": 83.36
+    },
+    {
+      "residueNumber": 256,
+      "pLDDT": 80.93
+    },
+    {
+      "residueNumber": 257,
+      "pLDDT": 73.62
+    },
+    {
+      "residueNumber": 258,
+      "pLDDT": 71.03
+    },
+    {
+      "residueNumber": 259,
+      "pLDDT": 81.54
+    },
+    {
+      "residueNumber": 260,
+      "pLDDT": 86.8
+    },
+    {
+      "residueNumber": 261,
+      "pLDDT": 90.39
+    },
+    {
+      "residueNumber": 262,
+      "pLDDT": 88.47
+    },
+    {
+      "residueNumber": 263,
+      "pLDDT": 76.66
+    },
+    {
+      "residueNumber": 264,
+      "pLDDT": 89.04
+    },
+    {
+      "residueNumber": 265,
+      "pLDDT": 80.28
+    },
+    {
+      "residueNumber": 266,
+      "pLDDT": 76.21
+    },
+    {
+      "residueNumber": 267,
+      "pLDDT": 72.03
+    },
+    {
+      "residueNumber": 268,
+      "pLDDT": 79.74
+    },
+    {
+      "residueNumber": 269,
+      "pLDDT": 81.99
+    },
+    {
+      "residueNumber": 270,
+      "pLDDT": 76.14
+    },
+    {
+      "residueNumber": 271,
+      "pLDDT": 53.91
+    },
+    {
+      "residueNumber": 272,
+      "pLDDT": 94.41
+    },
+    {
+      "residueNumber": 273,
+      "pLDDT": 85.68
+    },
+    {
+      "residueNumber": 274,
+      "pLDDT": 68.79
+    },
+    {
+      "residueNumber": 275,
+      "pLDDT": 58.13
+    },
+    {
+      "residueNumber": 276,
+      "pLDDT": 65.83
+    },
+    {
+      "residueNumber": 277,
+      "pLDDT": 52.22
+    },
+    {
+      "residueNumber": 278,
+      "pLDDT": 61.4
+    },
+    {
+      "residueNumber": 279,
+      "pLDDT": 65.23
+    },
+    {
+      "residueNumber": 280,
+      "pLDDT": 58.72
+    }
+  ]
+}

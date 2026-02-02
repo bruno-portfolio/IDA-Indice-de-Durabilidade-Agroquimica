@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "layer": "IDA_REGIONAL",
+    "description": "Ajuste do IDA por contexto regional de seleção",
+    "date_generated": "2026-02-02T11:42:16.630158",
+    "version": "2.0"
+  },
+  "summary": {
+    "ranking": [
+      {
+        "rank": 1,
+        "region": "",
+        "ida_molecular": 0.0806,
+        "ida_regional": 0.0664,
+        "degradation_pct": 17.6,
+        "risk_level": "high"
+      }
+    ],
+    "highest_risk_region": "",
+    "lowest_risk_region": "",
+    "avg_ida_regional": 0.0664,
+    "n_regions": 1
+  },
+  "regions": [
+    {
+      "metadata": {
+        "layer": "IDA_REGIONAL",
+        "description": "Ajuste do IDA por contexto regional de seleção",
+        "region_id": "",
+        "region_name": "",
+        "season": "",
+        "date_generated": "2026-02-02T11:42:16.628760",
+        "version": "2.0"
+      },
+      "scores": {
+        "ida_molecular": 0.0806,
+        "ida_regional": 0.0664,
+        "degradation_pct": 17.6
+      },
+      "adjustment_factors": {
+        "mutation_penalty": 0.0,
+        "pressure_score": 0.7916666666666666,
+        "saturation_score": 0.5,
+        "combined_factor": 0.17604166666666665
+      },
+      "mutation_details": {
+        "n_mutations": 0,
+        "details": []
+      },
+      "interpretation": "IDA Regional moderadamente reduzido (18%) - monitoramento recomendado",
+      "confidence_level": "low",
+      "disclaimer": "IDA Regional ajusta o IDA Molecular pelo contexto de seleção específico de cada região. Regiões com mais mutações documentadas, maior pressão de uso e maior saturação do MoA terão IDA Regional mais baixo, indicando maior risco de erosão de eficácia."
+    }
+  ],
+  "disclaimer": "IDA Regional ajusta o IDA Molecular pelo contexto de seleção específico de cada região. Regiões com mais mutações documentadas, maior pressão de uso e maior saturação do MoA terão IDA Regional mais baixo, indicando maior risco de erosão de eficácia."
+}

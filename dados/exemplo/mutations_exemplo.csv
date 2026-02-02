@@ -1,0 +1,11 @@
+mutation_id,position,original_aa,mutant_aa,subunit,target,frequency,region,first_detected,resistance_factor,fixed,notes
+FRAC_SDH_001,272,P,L,SdhB,SDH,high,Global,2017,15.5,True,Mutacao mais comum em SDHI
+FRAC_SDH_002,272,P,F,SdhB,SDH,medium,Europe,2018,12.0,True,Variante da P272
+FRAC_SDH_003,272,P,T,SdhB,SDH,low,Asia,2020,8.0,False,Emergente
+FRAC_SDH_004,230,H,R,SdhB,SDH,low,Lab,2015,50.0,False,Apenas em laboratorio
+FRAC_SDH_005,230,H,Y,SdhB,SDH,very_low,Lab,2016,35.0,False,Resistencia cruzada alta
+FRAC_SDH_006,273,I,V,SdhB,SDH,medium,Brazil,2019,5.0,True,Comum no Brasil
+FRAC_SDH_007,273,I,M,SdhB,SDH,low,USA,2021,4.5,False,Emergente
+FRAC_SDH_008,145,Y,F,SdhB,SDH,very_low,Lab,2014,20.0,False,Posicao catalitica
+FRAC_SDH_009,146,G,A,SdhB,SDH,low,Europe,2022,3.0,False,Nova mutacao
+FRAC_SDH_010,147,A,T,SdhB,SDH,medium,Global,2020,2.5,True,Baixo impacto

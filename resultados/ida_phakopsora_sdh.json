@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "layer": "IDA_MOLECULAR",
+    "description": "Barreira evolutiva intrínseca do alvo",
+    "target": "Succinato Desidrogenase (SDH-B)",
+    "organism": "Phakopsora pachyrhizi",
+    "common_name": "Ferrugem asiática da soja",
+    "crop": "Soja",
+    "defensivo_class": "Carboxamidas (SDHI)",
+    "examples": "Boscalida, Fluxapiroxade, Benzovindiflupyr",
+    "version": "2.0"
+  },
+  "aggregate_score": {
+    "ida_molecular": 0.4,
+    "interpretation": {
+      "barrier_level": "moderate_barrier",
+      "risk_level": "moderate",
+      "interpretation": "Barreira moderada - algumas vias de escape possiveis",
+      "recommendation": "Rotacao de MoA obrigatoria, maximo 2 aplicacoes/safra"
+    }
+  },
+  "component_summary": {
+    "avg_srs": 0.46,
+    "avg_sce": 0.5,
+    "avg_robustness": 0.77,
+    "avg_fitness_cost": 0.5
+  },
+  "confidence": {
+    "avg_plddt": 93.5,
+    "confidence_level": "muito alta",
+    "data_source": "PDB 2FBW (estrutura experimental)"
+  }
+}

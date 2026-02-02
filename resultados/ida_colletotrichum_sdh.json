@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "layer": "IDA_MOLECULAR",
+    "description": "Barreira evolutiva intrínseca do alvo",
+    "target": "Succinato Desidrogenase (SDH-B)",
+    "organism": "Colletotrichum truncatum",
+    "common_name": "Antracnose",
+    "crop": "Soja, Feijao",
+    "defensivo_class": "Carboxamidas (SDHI)",
+    "examples": "Boscalida, Fluxapiroxade",
+    "version": "2.0"
+  },
+  "aggregate_score": {
+    "ida_molecular": 0.45,
+    "interpretation": {
+      "barrier_level": "moderate_barrier",
+      "risk_level": "moderate",
+      "interpretation": "Barreira moderada - monitoramento necessario",
+      "recommendation": "Rotacao com outros MoAs recomendada"
+    }
+  },
+  "component_summary": {
+    "avg_srs": 0.5,
+    "avg_sce": 0.55,
+    "avg_robustness": 0.45,
+    "avg_fitness_cost": 0.6
+  },
+  "confidence": {
+    "avg_plddt": 82.0,
+    "confidence_level": "alta",
+    "data_source": "Dados de literatura"
+  }
+}
