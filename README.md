@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red?logo=streamlit&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+
 # IDA - Índice de Durabilidade Agroquímica
 
 ## O que é o IDA?
