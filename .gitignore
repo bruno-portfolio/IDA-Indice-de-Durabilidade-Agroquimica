@@ -67,4 +67,4 @@ temp/
 # dados/brutos/sequencias/*.fasta
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
