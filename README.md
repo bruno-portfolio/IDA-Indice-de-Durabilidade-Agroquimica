@@ -1,6 +1,8 @@
 ![CI](https://github.com/bruno-portfolio/IDA-Indice-de-Durabilidade-Agroquimica/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-FF4B4B?logo=streamlit&logoColor=white) ![BioPython](https://img.shields.io/badge/BioPython-1.81+-3776AB?logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-5.18+-3F4F75?logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
 # IDA - Índice de Durabilidade Agroquímica
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ida-project.streamlit.app)
+
 ## O que é o IDA?
 
 O IDA é uma ferramenta que estima o **risco de perda de eficácia** de fungicidas devido à evolução de resistência.
