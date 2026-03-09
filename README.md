@@ -5,7 +5,7 @@
 
 ## O que é o IDA?
 
-O IDA é uma ferramenta que estima o **risco de perda de eficácia** de fungicidas devido à evolução de resistência.
+O IDA é a ferramenta que estima o **risco de perda de eficácia** de fungicidas devido à evolução de resistência.
 
 Quando um fungicida é usado repetidamente, os fungos podem desenvolver resistência. O IDA **não prevê quantos anos o produto vai durar**, mas mede a **barreira evolutiva** contra esse processo, ajudando você a:
 
